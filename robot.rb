@@ -13,8 +13,6 @@ class Robot
   @@turnlist = ["LEFT", "RIGHT"]
   @@faceleft = ["EAST", "NORTH", "WEST", "SOUTH", "EAST"]
   @@faceright = ["EAST", "SOUTH", "WEST", "NORTH", "EAST"]
-  # set the command array
-  @@commandlist = ["PLACE", "MOVE", "LEFT", "RIGHT", "REPORT"]
 
   # grant access to private fields
   attr_accessor :name, :x, :y, :f, :ontable

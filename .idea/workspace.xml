@@ -3,6 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="4b26ebe3-d4d4-4a77-a973-6ee6ed099f7f" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/openfile_test.rb" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/robot.rb" afterPath="$PROJECT_DIR$/robot.rb" />
+      <change beforePath="$PROJECT_DIR$/test_loader.rb" afterPath="$PROJECT_DIR$/test_loader.rb" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -17,7 +19,7 @@
     <SUITE FILE_PATH="coverage/robot@openfile_test.coverage" NAME="openfile_test Coverage Results" MODIFIED="1519792897704" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="robot" />
     <SUITE FILE_PATH="coverage/robot@test.coverage" NAME="test Coverage Results" MODIFIED="1519797764696" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="robot" />
     <SUITE FILE_PATH="coverage/robot@All_tests_in_robot__robot.coverage" NAME="All tests in robot: robot Coverage Results" MODIFIED="1519617347882" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="robot" />
-    <SUITE FILE_PATH="coverage/robot@main_test.coverage" NAME="main_test Coverage Results" MODIFIED="1519815860646" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="robot" />
+    <SUITE FILE_PATH="coverage/robot@main_test.coverage" NAME="main_test Coverage Results" MODIFIED="1519817127994" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="robot" />
     <SUITE FILE_PATH="coverage/robot@robot.coverage" NAME="robot Coverage Results" MODIFIED="1519794906516" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="robot" />
     <SUITE FILE_PATH="coverage/robot@Run_test__MyTest___robot.coverage" NAME="Run test 'MyTest': robot Coverage Results" MODIFIED="1519617204741" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="robot" />
   </component>
@@ -26,8 +28,8 @@
       <file leaf-file-name="robot.rb" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/robot.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="278">
-              <caret line="159" column="3" lean-forward="false" selection-start-line="159" selection-start-column="3" selection-end-line="159" selection-end-column="3" />
+            <state relative-caret-position="-2401">
+              <caret line="16" column="34" lean-forward="true" selection-start-line="16" selection-start-column="34" selection-end-line="16" selection-end-column="34" />
               <folding />
             </state>
           </provider>
@@ -36,8 +38,8 @@
       <file leaf-file-name="test_loader.rb" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/test_loader.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="572">
-              <caret line="78" column="23" lean-forward="false" selection-start-line="78" selection-start-column="23" selection-end-line="78" selection-end-column="23" />
+            <state relative-caret-position="-1109">
+              <caret line="3" column="17" lean-forward="true" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
               <folding />
             </state>
           </provider>
@@ -46,8 +48,8 @@
       <file leaf-file-name="main_test.rb" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/main_test.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="342">
-              <caret line="18" column="30" lean-forward="false" selection-start-line="18" selection-start-column="30" selection-end-line="18" selection-end-column="30" />
+            <state relative-caret-position="133">
+              <caret line="7" column="46" lean-forward="true" selection-start-line="7" selection-start-column="46" selection-end-line="7" selection-end-column="46" />
               <folding />
             </state>
           </provider>
@@ -74,9 +76,9 @@
         <option value="$PROJECT_DIR$/robot_test.rb" />
         <option value="$PROJECT_DIR$/file_loader.rb" />
         <option value="$PROJECT_DIR$/test.rb" />
-        <option value="$PROJECT_DIR$/test_loader.rb" />
         <option value="$PROJECT_DIR$/main_test.rb" />
         <option value="$PROJECT_DIR$/robot.rb" />
+        <option value="$PROJECT_DIR$/test_loader.rb" />
       </list>
     </option>
   </component>
@@ -86,7 +88,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="10" />
     <option name="y" value="20" />
     <option name="width" value="1260" />
@@ -246,7 +248,7 @@
       <workItem from="1519773042843" duration="9324000" />
       <workItem from="1519788615286" duration="9085000" />
       <workItem from="1519810857331" duration="278000" />
-      <workItem from="1519813295108" duration="1152000" />
+      <workItem from="1519813295108" duration="2026000" />
     </task>
     <servers />
   </component>
@@ -265,10 +267,10 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="27182000" />
+    <option name="totallyTimeSpent" value="28056000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1296" height="744" extended-state="7" />
+    <frame x="-8" y="-8" width="1296" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -395,26 +397,26 @@
     <entry file="file://$PROJECT_DIR$/file_loader.rb" />
     <entry file="file://$PROJECT_DIR$/openfile_test.rb" />
     <entry file="file://$PROJECT_DIR$/test.rb" />
-    <entry file="file://$PROJECT_DIR$/test_loader.rb">
+    <entry file="file://$PROJECT_DIR$/robot.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="572">
-          <caret line="78" column="23" lean-forward="false" selection-start-line="78" selection-start-column="23" selection-end-line="78" selection-end-column="23" />
+        <state relative-caret-position="-2401">
+          <caret line="16" column="34" lean-forward="true" selection-start-line="16" selection-start-column="34" selection-end-line="16" selection-end-column="34" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/robot.rb">
+    <entry file="file://$PROJECT_DIR$/test_loader.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="278">
-          <caret line="159" column="3" lean-forward="false" selection-start-line="159" selection-start-column="3" selection-end-line="159" selection-end-column="3" />
+        <state relative-caret-position="-1109">
+          <caret line="3" column="17" lean-forward="true" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/main_test.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="18" column="30" lean-forward="false" selection-start-line="18" selection-start-column="30" selection-end-line="18" selection-end-column="30" />
+        <state relative-caret-position="133">
+          <caret line="7" column="46" lean-forward="true" selection-start-line="7" selection-start-column="46" selection-end-line="7" selection-end-column="46" />
           <folding />
         </state>
       </provider>

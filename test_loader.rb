@@ -6,14 +6,8 @@ class Test_Loader
     @test_name = name
     @robot = Robot.new(name)
   end
-  attr_accessor :robot
+  attr_accessor :robot, :test_name
 
-  # set some arrays for faces
-  @@facelist = ["SOUTH", "NORTH", "EAST", "WEST"]
-  @@facemove = [["SOUTH", 0, -1], ["NORTH", 0, 1], ["EAST", 1, 0], ["WEST", -1, 0]]
-  @@turnlist = ["LEFT", "RIGHT"]
-  @@faceleft = ["EAST", "NORTH", "WEST", "SOUTH", "EAST"]
-  @@faceright = ["EAST", "SOUTH", "WEST", "NORTH", "EAST"]
   # set the command array
   @@commandlist = ["PLACE", "MOVE", "LEFT", "RIGHT", "REPORT"]
 
